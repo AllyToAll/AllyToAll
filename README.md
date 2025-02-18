@@ -9,4 +9,4 @@ Allyce (They/Them/Theirs)
 - C++
 
 ### Contact me
-Add me on [Discord](https://allytoall.github.io/discord.html)
+Add me on [Discord](https://allytoall.github.io/discord)
