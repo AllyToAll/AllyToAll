@@ -2,11 +2,10 @@
 
 Allyce (They/Them/Theirs) 
 
-### Programming Languages
-- Python
-- Java
-- Bash
-- C++
+- **Programming**: Java, Python, C++
+- **Scripting**: Bash
+- **Web**: HTML, CSS, JS
+- **Data**: XML, JSON, SQL
 
 ### Contact me
 Add me on [Discord](https://allytoall.github.io/discord)
