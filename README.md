@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-Allyce (They/Them/Theirs) 
-
+Allyce (They/Them/Theirs)
 - **Programming**: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 - **Scripting**: ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?logo=gnu-bash&logoColor=white)
 - **Web**: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -14,3 +12,5 @@ Allyce (They/Them/Theirs)
 - **Documentation**: ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 - **Operating Systems**: ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?logo=Windows%2011&logoColor=white)
 - **Automation**: ![n8n](https://img.shields.io/badge/n8n-a?color=%23ea4a71)
+
+Want to know more about me? Check out [my website](https://allytoall.github.io/)!
