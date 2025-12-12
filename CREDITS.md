@@ -35,6 +35,7 @@ Exceptions:
     - Git Logo
 
 Brand Guidelines:
+The following logos are represented via Simple Icons redraws and are used in accordance with the respective brand guidelines:
 
 - Python Logo
   https://www.python.org/community/logos/
