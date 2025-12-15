@@ -1,35 +1,34 @@
 # Third-party assets
 
 This project includes third-party assets.  
-The AGPL-3.0 license does **not** apply to these assets.
-
-All third-party assets remain subject to their respective licenses and/or trademark policies and are used in accordance
+The AGPL-3.0 licence does **not** apply to third-party assets unless explicitly stated otherwise.
+All third-party assets remain subject to their respective licences and/or trademark policies and are used in accordance
 with their terms.  
-This applies primarily to **logos, icons, and badges** displayed in this repository and on the associated GitHub Pages
+This applies primarily to assets displayed in this repository and on the associated GitHub Pages
 site.
 
 ## Logos & badges used
 
 The following third-party assets are used for visual representation only (e.g. in badges or documentation).  
-Where licensed, usage is in accordance with the applicable license terms.  
+Where licenced, usage is in accordance with the applicable licence terms.  
 Where trademarked, usage is in accordance with the applicable brand guidelines.
 
-### License: [CC0-1.0](https://spdx.org/licenses/CC0-1.0)
+### Licence: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 - Icons and badges sourced from **Simple Icons**  
   https://simpleicons.org
 
 ### Exceptions (as specified by Simple Icons)
 
-- **License: [MIT](https://spdx.org/licenses/MIT)**
+- **Licence: [MIT](https://spdx.org/licenses/MIT)**
     - JavaScript icon
     - Bash icon  
       https://github.com/odb/official-bash-logo
 
-- **License: [BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause)**
+- **Licence: [BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause)**
     - OpenJDK icon
 
-- **License: [CC BY 3.0](https://spdx.org/licenses/CC-BY-3.0)**
+- **Licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)**
     - Git icon
 
 ### Brand guidelines
