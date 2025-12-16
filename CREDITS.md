@@ -15,7 +15,7 @@ Where trademarked, usage is in accordance with the applicable brand guidelines.
 
 ### Licence: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-- Icons and badges sourced from **Simple Icons**  
+- Icons and badges sourced from Simple Icons
   https://simpleicons.org
 
 ### Exceptions (as specified by Simple Icons)
